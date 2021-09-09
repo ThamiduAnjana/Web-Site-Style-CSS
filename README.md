@@ -1,8 +1,22 @@
 # Web-Site-Style-CSS
-Web-Site-Style-CSS
+------------------
 
+## Installation :
 
-*Button Style*
+1. ***Download CSS***
+------------------
+
+2. ***Import/link CSS***
+
+```
+/*Import React*/
+
+import './style.css';
+
+/*HTML*/
+
+<link rel="stylesheet" href="style.css">
+```
 ------------------
 
 ![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
