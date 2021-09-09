@@ -14,6 +14,12 @@
 }
 /* END Button Style */
 
+/*Button Curve*/
+.btn-curve{
+    border-radius: 25px;
+}
+/*END Button Curve*/
+
 /* Button Primary Style */
 .btn-primary{
     color: white;
