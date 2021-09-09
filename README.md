@@ -23,9 +23,8 @@ import './style.css';
 
 ###### HTML Commands :
 
-![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
-
 > HTML Commands: /Button
+![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
 
 ```
 <>
@@ -40,9 +39,9 @@ import './style.css';
 <>
 ```
 
+> HTML Commands: /Button-Curve
 ![Buttons-Curve](https://user-images.githubusercontent.com/46102435/132737915-1ada018b-4bbc-4c20-a810-f481590ad68d.PNG)
 
-> HTML Commands: /Button-Curve
 ```
 <>
 	<button class="btn btn-curve"><span>BUTTON-defult</span></button>
@@ -56,9 +55,9 @@ import './style.css';
 <>
 ```
 
+> HTML Commands: /Button-Edge-Curve
 ![Buttons-Edge-Curve](https://user-images.githubusercontent.com/46102435/132737920-42747251-dca2-4026-92c9-9caf3833cb60.PNG)
 
-> HTML Commands: /Button-Edge-Curve
 ```
 <>
 	<button class="btn btn-edge-curve"><span>BUTTON-defult</span></button>
