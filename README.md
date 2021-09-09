@@ -19,9 +19,6 @@ import './style.css';
 ```
 ------------------
 
-3. ***Add HTML Commands***
-------------------
-
 ![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
 
 > HTML Commands: /Button
