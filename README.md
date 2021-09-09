@@ -1,13 +1,12 @@
 # Web-Site-Style-CSS
-============================================================================================================
+------------------
 
-##Installation :
+## Installation :
 
 1. ***Download CSS***
 ------------------
 
 2. ***Import/link CSS***
-------------------
 
 ```
 /*Import React*/
@@ -18,6 +17,7 @@ import './style.css';
 
 <link rel="stylesheet" href="style.css">
 ```
+------------------
 
 3. ***Add HTML Commands***
 ------------------
