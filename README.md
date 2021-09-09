@@ -12,7 +12,8 @@
 /*Import React*/
 
 import './style.css';
-
+```
+```
 /*HTML*/
 
 <link rel="stylesheet" href="style.css">
