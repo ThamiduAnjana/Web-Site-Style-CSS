@@ -20,6 +20,12 @@
 }
 /*END Button Curve*/
 
+/*Button Edge Curve*/
+.btn-edge-curve{
+    border-radius: 7px;
+}
+/*END Edge Curve*/
+
 /* Button Primary Style */
 .btn-primary{
     color: white;
