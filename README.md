@@ -117,12 +117,12 @@ import './style.css';
 
 ```
 <>
-<div class="box" style="width: 30%;">
-	<h2>Lorem ipsum dolor sit amet.</h2>
-	<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam eveniet voluptates, error dicta natus sint quisquam amet doloremque placeat perferendis?
-	</p>
-	<button class="btn btn-edge-curve btn-dark"><span>button</span></button>
-</div>
+	<div class="box" style="width: 30%;">
+		<h2>Lorem ipsum dolor sit amet.</h2>
+		<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam eveniet voluptates, error dicta natus sint quisquam amet doloremque placeat perferendis?
+		</p>
+		<button class="btn btn-edge-curve btn-dark"><span>button</span></button>
+	</div>
 <>
 ```
 
