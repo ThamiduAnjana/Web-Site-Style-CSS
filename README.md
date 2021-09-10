@@ -30,7 +30,8 @@ import './style.css';
 ### Buttons
 
 > HTML Commands: /Button
-![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
+
+![Buttons](https://user-images.githubusercontent.com/46102435/132846540-154c5c19-cf1a-4f77-a970-1cbda8ab8033.PNG)
 
 ```
 <>
@@ -45,24 +46,9 @@ import './style.css';
 <>
 ```
 
-> HTML Commands: /Button-Curve
-![Buttons-Curve](https://user-images.githubusercontent.com/46102435/132737915-1ada018b-4bbc-4c20-a810-f481590ad68d.PNG)
-
-```
-<>
-	<button class="btn btn-curve"><span>BUTTON-defult</span></button>
-	<button class="btn btn-curve btn-primary"><span>BUTTON-Primary</span></button>
-	<button class="btn btn-curve btn-secondary"><span>BUTTON-secondary</span></button>
-	<button class="btn btn-curve btn-success"><span>BUTTON-success</span></button>
-	<button class="btn btn-curve btn-danger"><span>BUTTON-Primary</span></button>
-	<button class="btn btn-curve btn-warning"><span>BUTTON-secondary</span></button>
-	<button class="btn btn-curve btn-info"><span>BUTTON-success</span></button>
-	<button class="btn btn-curve btn-dark"><span>BUTTON-success</span></button>
-<>
-```
-
 > HTML Commands: /Button-Edge-Curve
-![Buttons-Edge-Curve](https://user-images.githubusercontent.com/46102435/132737920-42747251-dca2-4026-92c9-9caf3833cb60.PNG)
+
+![Buttons-Edge-Curve](https://user-images.githubusercontent.com/46102435/132846551-aca5d0f1-87fa-4533-b535-166597c993a8.PNG)
 
 ```
 <>
@@ -77,6 +63,24 @@ import './style.css';
 <>
 
 ```
+
+> HTML Commands: /Button-Curve
+
+![Buttons-Curve](https://user-images.githubusercontent.com/46102435/132846548-963d3d16-c330-43cc-90e0-a8c300188f30.PNG)
+
+```
+<>
+	<button class="btn btn-curve"><span>BUTTON-defult</span></button>
+	<button class="btn btn-curve btn-primary"><span>BUTTON-Primary</span></button>
+	<button class="btn btn-curve btn-secondary"><span>BUTTON-secondary</span></button>
+	<button class="btn btn-curve btn-success"><span>BUTTON-success</span></button>
+	<button class="btn btn-curve btn-danger"><span>BUTTON-Primary</span></button>
+	<button class="btn btn-curve btn-warning"><span>BUTTON-secondary</span></button>
+	<button class="btn btn-curve btn-info"><span>BUTTON-success</span></button>
+	<button class="btn btn-curve btn-dark"><span>BUTTON-success</span></button>
+<>
+```
+
 
 ### Cards
 
