@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web-Site-Style-CSS @HTML @CSS
 ------------------
 
@@ -210,5 +209,4 @@ import './style.css';
 		<button class="btn btn-edge-curve btn-dark"><span>button</span></button>
 	</div>
 <>
->>>>>>> 9843323a90fbd6742940376ab39c18ffd0c04fe8
 ```
