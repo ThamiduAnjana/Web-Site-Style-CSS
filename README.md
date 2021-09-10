@@ -77,6 +77,7 @@ import './style.css';
 #### Cards
 
 > HTML Commands: /Card-Normal
+
 ![card 1](https://user-images.githubusercontent.com/46102435/132839439-0d62ea5b-56a7-406f-b34f-882080241757.PNG)
 
 ```
@@ -89,6 +90,7 @@ import './style.css';
 ```
 
 > HTML Commands: /Card-With-Link
+
 ![card 2](https://user-images.githubusercontent.com/46102435/132839442-9f712a9f-85b2-4c6a-849a-74665d4d7e22.PNG)
 
 ```
@@ -102,6 +104,7 @@ import './style.css';
 ```
 
 > HTML Commands: /Card-With-Button
+
 ![card 3](https://user-images.githubusercontent.com/46102435/132839445-345a0d46-bf61-4f8b-ae6f-609fe66b1a3c.PNG)
 
 ```
@@ -116,6 +119,7 @@ import './style.css';
 ```
 
 > HTML Commands: /Card-With-Button
+
 ![card 4](https://user-images.githubusercontent.com/46102435/132839449-abdb3997-d932-4bcd-b5ee-6d3e05fe898f.PNG)
 
 ```
