@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+   font-family: 'Ubuntu', sans-serif;
+}
+
+/* Button Style */
+.btn{
+    border: none;
+    box-shadow: 2px;
+    padding: 10px 25px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    text-decoration: none;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+/* END Button Style */
+
+/* Button Border Style */
+.btn-border{
+    border: 1px solid;
+}
+/* END Button Style */
+
+/*Button Curve*/
+.btn-curve{
+    border-radius: 25px;
+}
+/*END Button Curve*/
+
+/*Button Edge Curve*/
+.btn-edge-curve{
+    border-radius: 7px;
+}
+/*END Edge Curve*/
+
+/* Button Primary Style */
+.btn-primary{
+    color: white;
+    background-color: #3F51B5;
+}
+.btn-primary:hover{
+    color: white;
+    background-color: #448AFF;
+}
+/* END Button Primary Style */
+
+/* Button Secondary Style */
+.btn-secondary{
+    color: white;
+    background-color: #757575;
+}
+.btn-secondary:hover{
+    color: white;
+    background-color: #BDBDBD;
+}
+/* END Button secondary Style */
+
+/* Button Success Style */
+.btn-success{
+    color: white;
+    background-color: #388E3C;
+}
+.btn-success:hover{
+    color: white;
+    background-color: #4CAF50;
+}
+/* END Button Success Style */
+
+/* Button Danger Style */
+.btn-danger{
+    color: white;
+    background-color: #C2185B;
+}
+.btn-danger:hover{
+    color: white;
+    background-color: #E91E63;
+}
+/* END Button Danger Style */
+
+/* Button Warning Style */
+.btn-warning{
+    color: white;
+    background-color: #FFA000;
+}
+.btn-warning:hover{
+    color: white;
+    background-color: #FFC107;
+}
+/* END Button Warning Style */
+
+/* Button Info Style */
+.btn-info{
+    color: white;
+    background-color: #03A9F4;
+}
+.btn-info:hover{
+    color: white;
+    background-color: #00BCD4;
+}
+/* END Button Info Style */
+
+/* Button Dark Style */
+.btn-dark{
+    color: white;
+    background-color: #212121;
+}
+.btn-dark:hover{
+    color: white;
+    background-color: #34495E;
+}
+/* END Button Dark Style */
+
+/* Button Span Style */
+.btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.btn span::after{
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+.btn:hover span{
+    padding-right: 15px;
+}
+.btn:hover span::after {
+    opacity: 1;
+    right: 0;
+}
+/* END Button Span Style */
+
+/* Cards Style */
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+.card-img{
+    height: 180px;
+    width: 100%;
+    display: block;
+    border-radius: 6px;
+}
+/* END Cards Style */
