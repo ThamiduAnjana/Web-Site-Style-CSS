@@ -22,9 +22,9 @@ import './style.css';
 
 3. ***Add HTML Commands***
 
-### HTML Commands :
+## HTML Commands :
 
-## Buttons
+### Buttons
 
 > HTML Commands: /Button
 ![Buttons](https://user-images.githubusercontent.com/46102435/132737911-1a296d21-c193-414d-b61b-73481d198ee1.PNG)
@@ -75,7 +75,7 @@ import './style.css';
 
 ```
 
-#### Cards
+### Cards
 
 > HTML Commands: /Card-Normal
 
