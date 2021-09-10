@@ -1,7 +1,16 @@
+/*Import Font URL*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/*Set Font All the Doc*/
+*{
+   font-family: 'Ubuntu', sans-serif;
+}
+/*END Set Font All the Doc*/
+
 /* Button Style */
 .btn{
-    border: 1px solid;
-    box-shadow: 1px 4px 8px 2px #D5DBDB;
+    border: none;
+    box-shadow: 2px;
     padding: 10px 25px;
     display: inline-block;
     text-transform: uppercase;
@@ -13,6 +22,12 @@
     margin: 5px;
 }
 /* END Button Style */
+
+/*Button Border Style*/
+.btn-border{
+    border: 1px solid;
+}
+/*END Button Border Style*/
 
 /*Button Curve*/
 .btn-curve{
@@ -126,3 +141,14 @@
     right: 0;
 }
 /* END Button Span Style */
+
+/*Cards Style*/
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+/*END Cards Style*/
