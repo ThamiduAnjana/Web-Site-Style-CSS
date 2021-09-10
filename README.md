@@ -1,10 +1,8 @@
 # Web-Site-Style-CSS @HTML @CSS
-------------------
 
 ## Installation :
 
 1. ***Download CSS***
-------------------
 
 2. ***Import/link CSS***
 
@@ -18,9 +16,10 @@ import './style.css';
 
 <link rel="stylesheet" href="style.css">
 ```
-------------------
 
 3. ***Add HTML Commands***
+
+------------------
 
 ### HTML Commands :
 
