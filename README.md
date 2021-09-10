@@ -1,6 +1,6 @@
 # Web-Site-Style-CSS @HTML @CSS
 
-## Installation : hi
+## Installation :
 
 1. ***Download CSS***
 
