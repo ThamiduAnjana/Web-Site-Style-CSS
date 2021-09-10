@@ -151,4 +151,9 @@
     display: block;
     padding: 1.25rem;
 }
+.card-img{
+    width: 465px;
+    height: auto;
+    display: block;
+}
 /*END Cards Style*/
