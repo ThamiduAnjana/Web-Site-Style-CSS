@@ -141,3 +141,15 @@ import './style.css';
 	</div>
 <>
 ```
+
+### Cards
+
+> HTML Commands: /Card-Normal
+
+![Inputs 1](https://user-images.githubusercontent.com/46102435/134122939-92293f67-bd49-442d-8c2a-f6fb2c300bd1.PNG)
+
+```
+<>
+	<input type="text" name="inputdata" placeholder="Enter your input"/>
+<>
+```
